@@ -31,3 +31,5 @@ The dataset, comprising details of housing in King County, Washington, provided 
 5. Heat Map:
     Created a heat map establishing relationships between the condition and view of houses.
     Provided a visual representation of how these factors correlate, aiding in property assessment.
+
+Tableau Link : https://public.tableau.com/app/profile/aryan.tele/viz/RealEstateAnalysis_17000407932480/Dashboard1?publish=yes
