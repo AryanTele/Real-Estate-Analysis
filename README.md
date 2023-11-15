@@ -6,6 +6,10 @@ This data analysis project focused on uncovering insights from the housing datas
 ### Data Set Description:
 The dataset, comprising details of housing in King County, Washington, provided a comprehensive view of property characteristics, prices, and geographical information. Each entry contributed to a nuanced understanding of the real estate landscape in the region.
 
+
+![image](https://github.com/AryanTele/Real-Estate-Analysis/assets/58328909/3ffa4672-6498-42cd-97ea-6f6a9605b226)
+
+
 ### Key Components Analyzed:
 
 1. Average House Prices Over Years (Line Chart):
